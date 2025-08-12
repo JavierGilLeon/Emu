@@ -1,0 +1,8 @@
+/home/javi/github/Emu/build/CMakeFiles/gboy_em.dir
+/home/javi/github/Emu/build/CMakeFiles/edit_cache.dir
+/home/javi/github/Emu/build/CMakeFiles/rebuild_cache.dir
+/home/javi/github/Emu/build/include/SDL/CMakeFiles/SDL3-shared.dir
+/home/javi/github/Emu/build/include/SDL/CMakeFiles/SDL3_test.dir
+/home/javi/github/Emu/build/include/SDL/CMakeFiles/SDL_uclibc.dir
+/home/javi/github/Emu/build/include/SDL/CMakeFiles/edit_cache.dir
+/home/javi/github/Emu/build/include/SDL/CMakeFiles/rebuild_cache.dir

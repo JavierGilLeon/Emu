@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/gboy_em.dir/link.d CMakeFiles/gboy_em.dir/main.c.o -o gboy_em  -Wl,-rpath,/home/javi/github/Emu/build libSDL3.so.0.3.0

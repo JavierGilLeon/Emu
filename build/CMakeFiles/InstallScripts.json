@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/javi/github/Emu/build/cmake_install.cmake",
+		"/home/javi/github/Emu/build/include/SDL/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
